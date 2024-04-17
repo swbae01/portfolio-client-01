@@ -1,0 +1,35 @@
+
+{
+    "products": [
+        {
+            "sku": "item0004",
+            "name": "Scarf",
+            "price": 9.99
+        },
+        {
+            "sku": "item0005",
+            "name": "Loafer",
+            "price": 19.99
+        },
+        {
+            "sku": "item0006",
+            "name": "Bag",
+            "price": 29.99
+        },
+        {
+            "sku": "item0001",
+            "name": "Loafer",
+            "price": 19.99
+        },
+        {
+            "sku": "item0002",
+            "name": "Bag",
+            "price": 29.99
+        },
+        {
+            "sku": "item0003",
+            "name": "Bag",
+            "price": 29.99
+        }
+    ]
+}
